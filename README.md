@@ -35,4 +35,4 @@ Este é um site de exemplo feito para treinar HTML, CSS e JavaScript.
 2. Abra o arquivo `index.html` no navegador
 
 ## 📜 Licença
-Este projeto está sob a licença MIT.
+Este projeto está sob a licen
